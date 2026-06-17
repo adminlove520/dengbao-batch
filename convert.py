@@ -17,7 +17,7 @@ from requests.exceptions import RequestException
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
-API_URL = "https://mp2md.leti.ltd/api/convert"
+API_URL = "https://wechat-to-markdown-nmf6n02ut-adminlove520s-projects.vercel.app/api/convert"
 TIMEOUT = 60
 MAX_RETRIES = 3
 RETRY_DELAY = 5
