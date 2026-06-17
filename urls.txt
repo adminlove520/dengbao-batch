@@ -1,0 +1,74 @@
+# 等保测评命令 - 微信文章链接清单
+# 格式: 分类|标题|URL
+# ==================
+
+# 一、网络设备 (8篇)
+网络设备|华为网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485031&idx=1&sn=52068f3e07d040187128cd8176e64a57&scene=21
+网络设备|华三（H3C）网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485052&idx=1&sn=249230b6295b4f69e1ad18051f0a2424&scene=21
+网络设备|锐捷网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485036&idx=1&sn=344c7b160228e1065023312c219bcb42&scene=21
+网络设备|信锐网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485061&idx=1&sn=360228d178eff5b7962de62f6d1b316c&scene=21
+网络设备|思科网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485053&idx=1&sn=5cc3b796e131c8f508598cee93151b7b&scene=21
+网络设备|瑞斯康达Gazelle网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485147&idx=1&sn=728fbaf563dfa60a9762d1b63171e052&scene=21
+网络设备|ZTE(中兴)网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485320&idx=1&sn=e34e9a0c9e124a22330da0aa1dd2b2ad&scene=21
+网络设备|TP-LINK网络设备|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485321&idx=1&sn=e06d8b0d3b914b8829e41a7944c6ed3f&scene=21
+
+# 二、数据库 (17篇)
+数据库|PostgreSQL数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247484988&idx=1&sn=f71bd45bb00cfdae5e73034cab3ad1b4&scene=21
+数据库|Oracle数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247484989&idx=1&sn=a44a31b88734aaf118b9b84afb9e41a7&scene=21
+数据库|OceanBase数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247484990&idx=1&sn=dc59a52b02dce7d14e19062e6c431a5e&scene=21
+数据库|华为GaussDB系列|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247484992&idx=1&sn=b662fb8d1088f549017661243990e97a&scene=21
+数据库|MySQL数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485029&idx=1&sn=5be4a9e67905527edb5659b6853c1618&scene=21
+数据库|DB2数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485030&idx=1&sn=1b9c23e8d395dcd1ac4a5c4f5fd28db1&scene=21
+数据库|SQLserver|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485114&idx=1&sn=5dd975a585885b9023709cd970ea7680&scene=21
+数据库|MongoDB数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485113&idx=1&sn=6eb62e0a60fc42e430b80f05624b02b3&scene=21
+数据库|HighGoDatabase|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485202&idx=1&sn=e38dd0e85223b22c985c6c741817ed9f&scene=21
+数据库|达梦数据库DM|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485204&idx=1&sn=b7a66472036529b477256d24d8cc6e5a&scene=21
+数据库|人大金仓数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485229&idx=1&sn=75114bc63f3da2a26fe2b000637c4584&scene=21
+数据库|神州数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485239&idx=1&sn=471ff61fd2542dbd6db3ce7b498ed453&scene=21
+数据库|南大通用数据库GBase|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485362&idx=1&sn=244cfefeb5d4b42e18ebc13d652d8828&scene=21
+数据库|TDSQL|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485365&idx=1&sn=a46becdc7321f3ebadd4b2fa272ff84f&scene=21
+数据库|InfluxDB|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485379&idx=1&sn=319db12a438ca7f48ee6c335f09a1575&scene=21
+数据库|mariadb|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485380&idx=1&sn=a516624c2f194795ed3588c612b13616&scene=21
+数据库|Clickhouse数据库|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485383&idx=1&sn=152fae9bc00da2f88ac2fd11f6e582bd&scene=21
+
+# 三、服务器操作系统 (21篇)
+服务器操作系统|SUSELinuxEnterpriseServer|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485040&idx=1&sn=b1958d5fe31b7a37f03348f30f938db1&scene=21
+服务器操作系统|AnolisLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485041&idx=1&sn=e3e49c3758a08836f254cc2693d532a5&scene=21
+服务器操作系统|KylinLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485042&idx=1&sn=d0ec8b6b7070d5aa2eca316bed212e03&scene=21
+服务器操作系统|CentosLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485063&idx=1&sn=8396e2ea47b1ebebfc09600cb6538429&scene=21
+服务器操作系统|UbuntuServer|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485086&idx=1&sn=a4f43dd94d80466092d2595ce349d497&scene=21
+服务器操作系统|OracleLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485064&idx=1&sn=1ce81bf5ed052692c8f87d44a56fb385&scene=21
+服务器操作系统|RedHatEnterpriseLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485085&idx=1&sn=a42157047157b423039e451366adec8b&scene=21
+服务器操作系统|统信UOSServer|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485062&idx=1&sn=ccdcd93ca59a5d1ff0738d421a3c17d9&scene=21
+服务器操作系统|WindowsServer|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485087&idx=1&sn=5f0173570640b4b1bdee1d2c5dc2772d&scene=21
+服务器操作系统|DebianLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485112&idx=1&sn=5ba8cd053bd6c46605ac30d20de5c802&scene=21
+服务器操作系统|GentooLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485206&idx=1&sn=f4aaaf166247e2ff282a0ff9c4877303&scene=21
+服务器操作系统|RockyLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485207&idx=1&sn=6c28c89b5d4dceed82d6427f43dc476d&scene=21
+服务器操作系统|FedoraLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485208&idx=1&sn=804d1c4846dbb86fdb244bd2271201c3&scene=21
+服务器操作系统|海康威视HikOS|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485247&idx=1&sn=5521cdee7e2dd257c3175eee1f798432&scene=21
+服务器操作系统|VMwareESXi|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485251&idx=1&sn=f11966c44c294df09b615ec8ebf3cbf6&scene=21
+服务器操作系统|AlmaLinux|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485255&idx=1&sn=a098c2f9495b3785da4bf958426a24b9&scene=21
+服务器操作系统|TencentOS|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485351&idx=1&sn=7855a5ef9b1f9f9296abb33bf95aa73a&scene=21
+服务器操作系统|IBMAIX|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485340&idx=1&sn=266d23459e4a05a13617b62908eee4f6&scene=21
+服务器操作系统|HP-UX|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485341&idx=1&sn=ce3c05a21530f5bba588f74b72f2a775&scene=21
+服务器操作系统|OracleSolaris|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485352&idx=1&sn=00acb36fe7e6c33a03da372131fa5cc5&scene=21
+服务器操作系统|openeuler|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485382&idx=1&sn=9946c3c4c6242785a7008d555ec1232e&scene=21
+
+# 四、中间件 (17篇)
+中间件|jboss|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485205&idx=1&sn=6118fb012a980db905bd75ec27e179e3&scene=21
+中间件|Elasticsearch|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485224&idx=1&sn=54fc571deb6a14360db219eefff3aee6&scene=21
+中间件|东方通中间件|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485234&idx=1&sn=b7f629732fadf229b0ed2dfa3358a5d5&scene=21
+中间件|tomcat|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485242&idx=1&sn=bde16f2ac224fcebf357f78493b3279c&scene=21
+中间件|redis|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485245&idx=1&sn=774b6d6cbd77968e3e107a06460b9940&scene=21
+中间件|Nginx|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485249&idx=1&sn=cd750b6f881700bc2c9c87fcd6fa7c2e&scene=21
+中间件|IIS|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485254&idx=1&sn=4066d8e3542e1aa27217048202731cdb&scene=21
+中间件|weblogic|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485256&idx=1&sn=a3a5b1971a9ef7da45c41f0c4d1a98a7&scene=21
+中间件|Kafka|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485339&idx=1&sn=21fd7f8aa963e9285371aac01a0952e6&scene=21
+中间件|宝兰德中间件|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485353&idx=1&sn=8624fbc5a615c24f9d5e40a7d4ae6963&scene=21
+中间件|RabbitMQ|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485343&idx=1&sn=e232339f91459ddb244a6166de39ea0a&scene=21
+中间件|金蝶中间件|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485345&idx=1&sn=11de0c1a4c0c2eb0c6c7ef09a033b31e&scene=21
+中间件|IBMWebSphereMQ|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485363&idx=1&sn=c8cb2c26828171358d8d82ecb4defee3&scene=21
+中间件|zookeeper|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485364&idx=1&sn=0ce0e52d11963d6d38ecfb85add01118&scene=21
+中间件|flink|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485366&idx=1&sn=cb5cb6a9dc6f08c46ab4d2020c35febf&scene=21
+中间件|glusterfs|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485381&idx=1&sn=4455c1a626da830670f0a5a83a78bcc2&scene=21
+中间件|Keycloak|https://mp.weixin.qq.com/s?__biz=MzkwNzMyODE4OQ==&mid=2247485384&idx=1&sn=0b942fb010d393799100aa9059b75b7c&scene=21

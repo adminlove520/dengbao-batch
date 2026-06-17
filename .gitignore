@@ -1,0 +1,19 @@
+# 临时源码目录
+wechat-src/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 输出目录
+output/
+
+# 日志
+conversion_log.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
